@@ -1,2 +1,2 @@
 # ML
-About Machine Learning
+What I study about Machine Learning
